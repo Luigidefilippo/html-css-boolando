@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+/* Header */
+.flex-header{
+    display: flex;
+    background-color: orangered;
+    justify-content: center;
+}
+.nav-flex{
+    width: 60%;
+    background-color: orangered;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.link a {
+    color: white;
+    text-decoration: none;
+}
+.link{
+    text-align: start;
+    width: 20%;
+    padding: 8px;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: 60%;
+    padding: 5px;
+    text-align: center;
+    width: 150px;
+    
+
+}
+.social{
+    width: 20%;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+.social-item{
+    color: white;
+    padding: 5px;
+
+}
