@@ -65,7 +65,7 @@ a {
 }
 /* MAIN */
 .col {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: calc(100% / 3 - (40px / 3));
     position: relative;
 }
